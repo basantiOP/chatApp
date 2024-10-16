@@ -51,7 +51,7 @@ In the project directory, you can run:
 
 **_1) Clone the repository._**
 
-        - $ git clone https://github.com/shamvi-05/chatApp-frontend.git
+        - $ git clone https://github.com/basantiOP/chatApp.git
         - $ cd chatApp-frontend
 
 **_2) Install required dependencies adn run the server_**
